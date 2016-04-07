@@ -10,23 +10,26 @@ The Android SDK can be downloaded from the Android Developer site [here](http://
 
 For the full installation instructions visit [the Android Developer Website](http://developer.android.com/sdk/installing/index.html).
 
-##Visual Studio Emulator Configuration
 
-Android Studio comes with its own Android emulator, but Microsoft has designed an emulator focused on performance, speed, and efficiency that can be used independently or in conjuction with Visual Studio 2015. You can learn more about the Visual Studio Emulator for Android [here](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516).
 
 
 ###Android Configuration
 
 1. Download or clone [The Interop REST Mail Calendar Android App](https://github.com/OfficeDev/Interop-REST-Mail-Contacts-Calendar-Sample).
 
+##Visual Studio Emulator Configuration
+
+Android Studio comes with its own Android emulator, but Microsoft has designed an emulator focused on performance, speed, and efficiency that can be used independently or in conjuction with Visual Studio 2015. You can learn more about the Visual Studio Emulator for Android [here](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516).
+
+
 2. Start Android Studio
 
 3. Click on "Open an existing Android Studio project" and select the folder that contains the app, then open the "MeetingManagerAndroid" folder then the "Android" folder and select the build.gradle file.
 
-  ![Open the App in Android Studio](../img/android-studio-open-project.jpg)
+  [Open the App in Android Studio](../img/android-studio-open-project.jpg)
 
 
-  ![App file location](../img/android-studio-file-location.jpg)
+  [App file location](../img/android-studio-file-location.jpg)
 
 4. Click Run > Run 'app' or click the green triangle play button. 
 
