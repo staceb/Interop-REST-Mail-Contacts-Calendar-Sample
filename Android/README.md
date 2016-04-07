@@ -27,7 +27,7 @@ For the full installation instructions visit [the Android Developer Website](htt
 
 4. Click Run > Run 'app' or click the green triangle play button. 
 
-  [Run the app](../img/android-studio-run-app.jpg)
+  ![Run the app](../img/android-studio-run-app.jpg)
   
   ##Visual Studio Emulator Configuration
 
