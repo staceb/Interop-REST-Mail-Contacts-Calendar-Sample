@@ -23,7 +23,9 @@ For the full installation instructions visit [the Android Developer Website](htt
 
   ![App file location](../img/android-studio-file-location.jpg)
 
+4. Click Run > Run 'app' or click the green triangle play button. 
 
+  ![Run the app](../img/android-studio-run-app.jpg)
 
 5. The first time you run the app you will need to add an ARM device to the emulator. To do this:  
 
