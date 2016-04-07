@@ -19,7 +19,7 @@ For the full installation instructions visit [the Android Developer Website](htt
 3. Click on "Open an existing Android Studio project" and select the folder that contains the app, then open the "MeetingManagerAndroid" folder then the "Android" folder and select the build.gradle file.
 
   ![Open the App in Android Studio](../img/android-studio-open-project.jpg)
-###Android Configuration2
+
 
   ![App file location](../img/android-studio-file-location.jpg)
 
