@@ -23,12 +23,11 @@ For the full installation instructions visit [the Android Developer Website](htt
 
   [Open the App in Android Studio](../img/android-studio-open-project.jpg)
 
-
   [App file location](../img/android-studio-file-location.jpg)
 
 4. Click Run > Run 'app' or click the green triangle play button. 
 
-  ![Run the app](../img/android-studio-run-app.jpg)
+
   
   ##Visual Studio Emulator Configuration
 
