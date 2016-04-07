@@ -22,7 +22,7 @@ This example app demonstrates the Representational State Transfer (REST) interfa
     
     * [test](/Android#android-configuration2)
 
-  * [Visual Studio Emulator Configuration](/android/visual-studio-emulator-configuration)
+  * [Visual Studio Emulator Configuration](/Android/#visual-studio-emulator-configuration)
 
     * [Install Visual Studio Android Emulator](/Android#install-visual-studio-android-emulator)
 
