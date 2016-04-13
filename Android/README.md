@@ -24,6 +24,10 @@ For the full installation instructions visit [the Android Developer Website](htt
   [Open the App in Android Studio](../img/android-studio-open-project.jpg)
 
   [App file location](../img/android-studio-file-location.jpg)
+  
+  ##Visual Studio Emulator Configuration
+
+Android Studio comes with its own Android emulator, but Microsoft has designed an emulator focused on performance, speed, and efficiency that can be used independently or in conjuction with Visual Studio 2015. You can learn more about the Visual Studio Emulator for Android [here](https://channel9.msdn.com/Events/Visual-Studio/Connect-event-2014/516).
 
 4. Click Run > Run 'app' or click the green triangle play button. 
 
